@@ -1,6 +1,6 @@
 ###
 <div align="left">
-<img align="left" height="350" src="https://raw.githubusercontent.com/arturbacilla/portfolio/portfolio-react/src/assets/dev_me.svg"  />
+<img align="left" height="250" src="https://raw.githubusercontent.com/arturbacilla/portfolio/portfolio-react/src/assets/dev_me.svg"  />
 
 <h3 align="left">Oi, eu sou o Artur! Eu sou Desenvolvedor Web Fullstack.</h3>
 
