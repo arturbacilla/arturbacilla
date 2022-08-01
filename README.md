@@ -1,6 +1,6 @@
 ###
 <div align="left">
-<img align="left" height="390" src="https://raw.githubusercontent.com/arturbacilla/arturbacilla/main/dev_me.svg?token=GHSAT0AAAAAABRCDP5ATM7C2WXSQHG4DWQKYXHJTQA"  />
+<img align="left" height="370" src="https://raw.githubusercontent.com/arturbacilla/arturbacilla/main/dev_me.svg?token=GHSAT0AAAAAABRCDP5ATM7C2WXSQHG4DWQKYXHJTQA"  />
 
 <h3 align="left">Oi, eu sou o Artur! Eu sou Desenvolvedor Web Fullstack.</h3>
 
