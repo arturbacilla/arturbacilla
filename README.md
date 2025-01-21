@@ -4,7 +4,7 @@
 
 <h3 align="left">Oi, eu sou o Artur! Eu sou Desenvolvedor Web Fullstack.</h3>
 
-<p align="left">Estou em transição de carreira para a área da tecnologia através do curso da escola de programação Trybe.<br><br>Atualmente graduado em engenharia mecânica e especialista em energias renováveis, eu acompanho ativamente inovações tecnológicas como:  impressão 3D, realidade virtual, blockchain, inteligência artificial. <br><br>Todas essas tem uma coisa em comum: a programação.<br>Por isso resolvi estudar programação,  acredito ser uma ferramenta que possibilita a criação e sustentação dessas tecnologias. <br>Além disso é uma ferramenta excelente para a resolução de problemas e desafios. <br><br>Eu adoro ser desafiado e criar novas soluções!</p>
+<p align="left">Sou graduado em Engenharia Mecânica.<br><br>Porém eu acompanho ativamente inovações tecnológicas como:  impressão 3D, realidade virtual, blockchain, inteligência artificial. <br><br>O que todas essas revoluções têm em comum? A programação.<br>Foi essa conexão que me levou a mergulhar no mundo do código e me tornar um desenvolvedor web fullstack, enxergando nele uma poderosa ferramenta para criar, impulsionar e transformar essas tecnologias. <br>Além de ser essencial para a inovação, a programação é uma aliada valiosa na resolução de problemas complexos — algo que me fascina.<br><br> Desafios me motivam, e encontrar soluções criativas é o que me move!</p>
 </div>
 
 ###
